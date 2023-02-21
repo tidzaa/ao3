@@ -105,7 +105,7 @@ class User(object):
                         raise
 
 
-            # The pagination button at the end of the page is of the form
+            # The pagination button at the end of the page of the form
             #
             #     <li class="next" title="next"> ... </li>
             #
